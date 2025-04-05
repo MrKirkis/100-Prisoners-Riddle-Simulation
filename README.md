@@ -17,7 +17,6 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/yourusername/100-prisoners-riddle.git
-cd 100-prisoners-riddle
 ```
 
 2. Установите зависимости:
