@@ -27,7 +27,7 @@ pip install colorama
 Просто запустите скрипт:
 
 ```bash
-python prisoners_simulation.py
+python mathRiddle.py
 ```
 
 Программа создаст:
